@@ -1,7 +1,8 @@
 # Examen Práctico Hito 3 — Testing & Quality Assurance
 
-**Estudiante:** Marcos · **Carrera:** Ingeniería de Sistemas — UNIFRANZ  
-**Docente:** Ing. Reynel Sánchez · **Fecha:** 20-10-2026
+**Estudiante:** Marcos Alexander Panozo Patty · **Carrera:** Ingeniería de Sistemas — UNIFRANZ  
+**Docente:** Reynel Sánchez Chuquimia · **Fecha:** 20-10-2026  
+**Repositorio:** https://github.com/AlexPanozo27/Examen-Hito-3-TQA
 
 ## Propósito
 Aplicar técnicas de prueba de caja negra, caja blanca y BDD (Gherkin), documentar defectos reproducibles y organizar el trabajo con Git, GitHub Issues y Project Board.
